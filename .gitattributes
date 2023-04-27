@@ -1,0 +1,2 @@
+/Data/raw/plantanet_subsample15.csv filter=lfs diff=lfs merge=lfs -text
+/Data/clean/plantanet_* filter=lfs diff=lfs merge=lfs -text

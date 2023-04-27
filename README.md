@@ -1,4 +1,4 @@
-# Mid-bootcamp Project: Plant diversity and Citizen Science
+# Mid-bootcamp Project: Plant@net tool - Plant diversity and Citizen Science
 Mid-Bootcamp project based on Plant@net tool dataset on plant diversity collected by citizen science.
 
 

@@ -1,2 +1,4 @@
 Data/raw/plantanet_subsample15.csv filter=lfs diff=lfs merge=lfs -text
 Data/clean/plantanet_* filter=lfs diff=lfs merge=lfs -text
+Data/raw/gapminder_internet_edit.csv filter=lfs diff=lfs merge=lfs -text
+Data/clean/internet_gdp.csv filter=lfs diff=lfs merge=lfs -text

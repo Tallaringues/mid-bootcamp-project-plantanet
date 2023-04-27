@@ -8,6 +8,8 @@ This project analizes the data gathered by users of the **Plant@net** app from a
 The original dataset is comprised of over 12 million entries. For the current project, a random subset of 150.000 entries was used.
 
 ## Aims of the project
+- Understand the app users' behaviour by analyzing temporal and geographical patterns to design future campaings to increase the reach.
+- Study plants registered now at different levels (order, genus) to plan strategies for gathering information of underrepresented categories.
 
 ## Questions
 
@@ -29,3 +31,39 @@ For more information, check the Plant@net [website](https://identify.plantnet.or
 The full dataset, with more than 12 million entries, is available in GBIF.
 
 GBIF.org (20 April 2023) GBIF Occurrence Download  https://doi.org/10.15468/dl.jq4aez
+
+## Other information
+For a better understanding of the regions where the users come from, I used the following information:
+
+### Global internet usage
+Gapminder dataset from [Kaggle](https://www.kaggle.com/datasets/sansuthi/gapminder-internet)
+
+[GapMinder](http://www.gapminder.org/) collects data from a handful of sources, including the Institute for Health Metrics and Evaluation, the US Census Bureau’s International Database, the United Nations Statistics Division, and the World Bank.
+
+### Countries list with alpha2 codes
+
+From [dadahub.io](https://datahub.io/core/country-list#resource-country-list_zip)
+
+- ISO 3166-1-alpha-2 English country names and code elements. This list states the country names (official short names in English) in alphabetical order as given in ISO 3166-1 and the corresponding ISO 3166-1-alpha-2 code elements.
+- This list is updated whenever a change to the official code list in ISO 3166-1 is effected by the ISO 3166/MA.
+- It lists 250 official short names and code elements as of Dec 2012.
+
+**License** : This material is licensed by its maintainers under the Public Domain Dedication and License
+
+### Google Trends
+[Google Trends](https://trends.google.com/home) is available in different languages.
+
+I gathered historical data (last 5 years) of the following terms/topics:
+- plant/planta
+- plant identification app/aa identificacion plantas
+- gardening/jardinería
+
+
+Data in GoogleTrends is a combination of:
+- Knowledge graph topics
+- Search interests
+- Google News articles
+
+Algorithm ranks according to:
+- Relative increase in volume
+- Absolute volume of searches

@@ -3,7 +3,7 @@ Mid-Bootcamp project based on Plant@net dataset on plant diversity collected by 
 
 
 ## General Information
-This project analizes the data gathered by users of the Plant@net app from all over the world since 2010 and it is still ongoing. 
+This project analizes the data gathered by users of the **Plant@net** app from all over the world since 2010 and it is still ongoing. 
 
 The original dataset is comprised of over 12 million entries. For the current project, a random subset of 150.000 entries was used.
 

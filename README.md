@@ -16,7 +16,8 @@ The original dataset is comprised of over 12 million entries. For the current pr
 ## Outlook
 _Ideas and suggestions for further analysis_
 ### Plants
-
+- Species identified and urban areas: is there a connection?
+- 
 
 ### Users behaviour
 

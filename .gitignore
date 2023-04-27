@@ -1,2 +1,5 @@
-/Data/plantanet.csv
+/Data/raw/plantanet.csv
+/Data/raw/plantanet_subsample3.csv
+/Data/raw/country_list.csv
+/Data/raw/gapminder_internet.csv
 /plantanet

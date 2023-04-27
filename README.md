@@ -1,5 +1,5 @@
 # Mid-bootcamp Project: Plant diversity and Citizen Science
-Mid-Bootcamp project based on Plant@net dataset on plant diversity collected by citizen science.
+Mid-Bootcamp project based on Plant@net tool dataset on plant diversity collected by citizen science.
 
 
 ## General Information
@@ -8,22 +8,24 @@ This project analizes the data gathered by users of the **Plant@net** app from a
 The original dataset is comprised of over 12 million entries. For the current project, a random subset of 150.000 entries was used.
 
 ## Aims of the project
-- Understand the app users' behaviour by analyzing temporal and geographical patterns to design future campaings to increase the reach.
-- Study plants registered now at different levels (order, genus) to plan strategies for gathering information of underrepresented categories.
-
-## Questions
+- Understand the app users' behaviour by analyzing temporal and geographical patterns to (potencially) design future campaings to increase the reach.
+- Study plants registered at different levels (order, genus) to plan strategies for gathering information on underrepresented categories.
 
 ## Outlook
 _Ideas and suggestions for further analysis_
+
 ### Plants
 - Species identified and urban areas: is there a connection?
-- 
+- Find patterns in identified plants: urban plants, garden plants, edible.
 
 ### Users behaviour
+- Find and study information about people with smartphone per region/country and connect it to entries in the app.
+- Study correlation between online trends and entries in the app.
 
 
 ## Information about Plant@net
 As mentioned in their website:
+
 "Pl@ntNet is a tool to help to identify plants with pictures. It is organized in different thematic and geographical floras. Choose the one that corresponds to your region or area of interest from the list below. If you don't know what to choose, select "World flora" which has the widest coverage but will give less accurate results than a more focused flora."
 
 For more information, check the Plant@net [website](https://identify.plantnet.org/) available in several languages.

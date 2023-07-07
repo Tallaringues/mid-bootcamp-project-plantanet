@@ -1,4 +1,6 @@
-![cover photo](https://github.com/Tallaringues/mid-bootcamp-project-plantanet/blob/main/Slides/plantnet_1.JPG)
+
+![cover photo](https://github.com/Tallaringues/mid-bootcamp-project-plantanet/blob/main/Slides/plantnet_1.jpg)
+
 
 # Plant@net tool - Plant diversity and Citizen Science
 Data analytics project based on Plant@net tool large dataset (+12 million entries) on plant diversity collected by citizen science.

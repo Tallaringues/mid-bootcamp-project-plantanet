@@ -1,5 +1,7 @@
-# Mid-bootcamp Project: Plant@net tool - Plant diversity and Citizen Science
-Mid-Bootcamp project based on Plant@net tool dataset on plant diversity collected by citizen science.
+![cover photo](https://github.com/Tallaringues/mid-bootcamp-project-plantanet/blob/main/Slides/plantnet_1.JPG)
+
+# Plant@net tool - Plant diversity and Citizen Science
+Data analytics project based on Plant@net tool large dataset (+12 million entries) on plant diversity collected by citizen science.
 
 
 ## General Information
